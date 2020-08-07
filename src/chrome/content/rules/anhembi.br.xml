@@ -1,0 +1,18 @@
+<ruleset name="anhembi.br">
+	<target host="anhembi.br" />
+	<target host="portal.anhembi.br" />
+	<target host="www.anhembi.br" />
+	<target host="satelite.anhembi.br" />
+	<target host="satelites.anhembi.br" />
+	<target host="alterarescolasegundograu.anhembi.br" />
+	<target host="lancamentonotas.anhembi.br" />
+	<target host="matriculaonline.anhembi.br" />
+	<target host="zurichseguros.anhembi.br" />
+	<target host="jornalismo.anhembi.br" />
+	<target host="sou.anhembi.br" />
+	<target host="carreiras.anhembi.br" />
+	<target host="lp.anhembi.br" />
+
+
+	<rule from="^http:" to="https:" />
+</ruleset>
